@@ -1,0 +1,10 @@
+YouTube — Final Presentation & Prototype Walkthrough
+https://www.youtube.com/watch?v=pcEl73XRp7s
+
+
+A recorded walkthrough of HuskyFind, a mobile platform built to solve a problem nearly every UW student runs into: losing something on a huge campus with no 
+central, reliable way to get it back. In the video, Omar and I walk through the problem (scattered front desks, group-chat posts that get buried, no shared 
+digital system across buildings), then demo the prototype itself — starting at the login screen, through the home page, into searching for a lost item or 
+posting a found one, and finally into the in-app messaging flow that lets a finder and owner connect without sharing personal contact information. We also 
+cover the AI Privacy Scan, which automatically detects and blurs sensitive information (like a Husky Card number) on photos before they're posted, and close 
+with what we learned through usability testing and what we'd build next — real-time notifications and expanding the platform beyond UW.
