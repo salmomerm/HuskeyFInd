@@ -1,0 +1,16 @@
+FigJam — Research & Design Process: 
+https://www.figma.com/board/BsjdWprX6uCknj1HMH19ec/HuskeyFInd-Draft?node-id=0-1&t=hBXoklOn0kpzp6Oa-1
+
+The full end-to-end process board documenting how HuskyFind went from a research question to a tested design. 
+It includes the original empathy map built from one-on-one interviews with UW students about losing or finding 
+items on campus (the direct quotes, the frustration and resignation that came with it, and the workaround behaviors
+like posting in Discord servers or just giving up and paying to replace the item); two personas — Maya Chen, a UW 
+student who regularly misplaces items between classes, and David Ramirez, front-desk staff managing lost items with 
+no shared system — built to keep design decisions grounded in real stakeholder needs; the "How might we" problem 
+statement that shaped the whole project; a competitive review of existing options (building front desks, UW R
+eddit/Facebook groups, generic lost & found apps) and why none of them solve the problem; low-fidelity wireframes 
+and the ideation/prioritization work (MoSCoW-style: must-have, should-have, nice-to-have) that decided which features 
+made the cut; and the two rounds of usability testing (Wizard of Oz and think-aloud) with the specific before/after 
+design changes each one produced — adding a "Message Finder" button and claimed-item status after testing showed users
+couldn't tell how to contact a finder, and adding an AI privacy scanner and a confirmation screen after testing showed
+users were unsure how to safely post sensitive items.
